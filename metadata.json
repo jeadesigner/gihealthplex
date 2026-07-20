@@ -1,0 +1,6 @@
+{
+  "name": "Health Plex Fitness Center",
+  "description": "Premium, modern and high-end fitness club in Grand Island, Nebraska. Featuring 24/7 access, unlimited classes, top-tier equipment, sauna, and expert personal trainers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
